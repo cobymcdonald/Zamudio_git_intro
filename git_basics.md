@@ -11,11 +11,11 @@
 
 ## What is Git?
 - Git is the most popular 'version control system' (VCS) today.
-- It's is a 'distributed version control system.'
+- It's a 'distributed version control system.'
 - It's open-source.
 - There are two types of version control systems: centralized and distributed.
     - Centralized: older, not very common, requires a central server that is accessed by all users/clients.
-    - Distributed: newer, very common, complete codebase with full history is mirrored on everyone's computer.
+    - Distributed: newer, very common, complete codebase with full revision history is mirrored on everyone's computer.
 - Why are distributed VCSs better?
     - Safer
     - Faster operations
